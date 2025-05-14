@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  exemplo-feign:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: rodrigoamora/rodrigo-springboot
+    container_name: 'exemplo-feign'
+    ports:
+      - "80:8080"
