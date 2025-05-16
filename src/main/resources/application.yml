@@ -1,0 +1,13 @@
+### Spring ###
+spring:
+  application:
+    name: ExemploFeign
+
+
+### Logging ###
+logging:
+  level:
+    org:
+      springframework:
+        web: INFO
+        
