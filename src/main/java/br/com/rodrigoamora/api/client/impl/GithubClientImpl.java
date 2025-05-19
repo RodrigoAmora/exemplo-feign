@@ -3,7 +3,7 @@ package br.com.rodrigoamora.api.client.impl;
 import org.springframework.stereotype.Component;
 
 import br.com.rodrigoamora.api.client.GithubClient;
-import br.com.rodrigoamora.dto.GithubUserDTO;
+import br.com.rodrigoamora.api.dto.GithubUserDTO;
 
 @Component
 public class GithubClientImpl {

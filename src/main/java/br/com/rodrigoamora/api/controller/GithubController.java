@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.rodrigoamora.api.doc.IGithubClientDoc;
-import br.com.rodrigoamora.dto.GithubUserDTO;
+import br.com.rodrigoamora.api.dto.GithubUserDTO;
 import br.com.rodrigoamora.exception.MyCustomException;
 import br.com.rodrigoamora.service.GithubService;
 

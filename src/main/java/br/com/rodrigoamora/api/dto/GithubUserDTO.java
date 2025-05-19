@@ -1,4 +1,4 @@
-package br.com.rodrigoamora.dto;
+package br.com.rodrigoamora.api.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

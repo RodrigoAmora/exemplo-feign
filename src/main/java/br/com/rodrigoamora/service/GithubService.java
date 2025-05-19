@@ -3,7 +3,7 @@ package br.com.rodrigoamora.service;
 import org.springframework.stereotype.Service;
 
 import br.com.rodrigoamora.api.client.impl.GithubClientImpl;
-import br.com.rodrigoamora.dto.GithubUserDTO;
+import br.com.rodrigoamora.api.dto.GithubUserDTO;
 
 @Service
 public class GithubService {

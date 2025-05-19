@@ -3,8 +3,8 @@ package br.com.rodrigoamora.api.doc;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
 
+import br.com.rodrigoamora.api.dto.GithubUserDTO;
 import br.com.rodrigoamora.dto.ErroMessageDTO;
-import br.com.rodrigoamora.dto.GithubUserDTO;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;
